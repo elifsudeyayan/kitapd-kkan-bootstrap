@@ -1,0 +1,36 @@
+body{
+    background-color: #E9ECEF;
+    margin: 0%;
+}
+.navbar{
+    text-align: center;
+    background-color: rgb(205, 88, 127);
+    color: white;
+}
+
+li a:hover{
+    background-color:rgb(243, 245, 220);
+    border-radius: 5px;
+    color: rgb(179, 219, 35);
+    text-decoration: none;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+ul.index-ul{
+    list-style:inside;
+    list-style-type:circle;
+    background-color: #E9ECEF;
+    display: inline-block;
+    text-align: left;
+    margin-bottom:20px;
+}
+
+.tasarim{
+    color: rgb(134, 44, 44);
+}
